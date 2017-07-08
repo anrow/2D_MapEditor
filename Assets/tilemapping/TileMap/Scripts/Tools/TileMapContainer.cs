@@ -1,6 +1,6 @@
 ﻿using UnityEngine;
 
-namespace tilemapping {
+namespace MapMaker.TileMapping {
     public class TileMapContainer : ScriptableObject {
         [SerializeField]
         public int width, height;
